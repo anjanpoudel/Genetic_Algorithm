@@ -7,7 +7,8 @@ class NeuralAgent implements IAgent
 	NeuralNet nn;
 	double[] in;
 
-	NeuralAgent(double[] weights) {
+	NeuralAgent(double[] weights)
+	{
 		in = new double[20];
 		nn = new NeuralNet();
 		nn.layers.add(new LayerLinear(in.length, 8));
@@ -41,7 +42,7 @@ class NeuralAgent implements IAgent
 	}
 
 
-	public static float sq_dist(float x1, float y1, float x2, float y2) {
+	public static float sq_dist(float x1, float y1, float x2, float y2)	{
 		return (x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2);
 	}
 
