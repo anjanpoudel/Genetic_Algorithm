@@ -7,5 +7,7 @@ Aim of this project was to make the Neural Agent win the tournament. I choose Ge
  To run this program run the build.bash file.
 
  # CHALLANGES FACED
- Implimenting new concept for the first time was bost exciting and challanging. Converting Concept to Code was little challange.
+ Implimenting new concept for the first time was both exciting and challanging. Converting Concept to Code was little challange.
+ 
+ # ScreenShot
  
