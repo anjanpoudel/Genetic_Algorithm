@@ -9,5 +9,12 @@ Aim of this project was to make the Neural Agent win the tournament. I choose Ge
  # CHALLANGES FACED
  Implimenting new concept for the first time was both exciting and challanging. Converting Concept to Code was little challange.
  
- # ScreenShot
+ # Accomplishment
+ Implimented genetic algorithm to fine tune the weight of neural network
  
+ # ScreenShot
+ ![Image description](https://github.com/anjanpoudel/Genetic_Algorithm/blob/master/screenshots/Screenshot%20from%202018-12-21%2013-48-22.png)
+ 
+ ![Image description](https://github.com/anjanpoudel/Genetic_Algorithm/blob/master/screenshots/Screenshot%20from%202018-12-21%2013-48-59.png) 
+
+ ![Image description](https://github.com/anjanpoudel/Genetic_Algorithm/blob/master/screenshots/Screenshot%20from%202018-12-21%2013-48-07.png) 
